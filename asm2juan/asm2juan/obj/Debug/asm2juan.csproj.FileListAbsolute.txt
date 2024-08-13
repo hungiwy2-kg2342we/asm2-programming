@@ -1,0 +1,11 @@
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\bin\Debug\asm2juan.exe.config
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\bin\Debug\asm2juan.exe
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\bin\Debug\asm2juan.pdb
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.BillWater.resources
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.LoginForm.resources
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.Properties.Resources.resources
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.csproj.GenerateResource.cache
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.exe
+C:\Users\admin\Pictures\PIc C#\winform\asm2juan\asm2juan\obj\Debug\asm2juan.pdb
